@@ -8,5 +8,6 @@ namespace MineSweeper
 {
     class test
     {
+        //hej
     }
 }
